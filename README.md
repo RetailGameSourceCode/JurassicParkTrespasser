@@ -1,4 +1,10 @@
 # Jurassic Park: Trespasser
+
+**Platform:** Windows  
+**Game:** Jurassic Park: Trespasser  
+**Type:** Source Code - Complete / Buildable.  
+**Source:** https://github.com/GamerDude27/JurassicParkTrespasser-src  
+
 A git-based fork of the Jurassic Park: Trespasser source code.
 
 ## Discord Server
